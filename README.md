@@ -76,9 +76,4 @@ flowchart TD
     classDef red fill:#DA3633,stroke:#fff,stroke-width:2px,color:#fff
     classDef black fill:#0D1117,stroke:#00D4AA,stroke-width:3px,color:#fff
     
-    class Prep,SL1,SL2,SL3 green
-    class UL1,UL2,UL3 blue
-    class Opt yellow
-    class DL,DL1,DL2,DL3,DL4 red
-    class Start,Mastery black
     ```
