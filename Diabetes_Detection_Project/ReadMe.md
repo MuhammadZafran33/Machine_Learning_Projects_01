@@ -1,5 +1,7 @@
 <div align="center">
+ 
 # 🩺 Diabetic Retinopathy Detection using Deep Learning
+
 </div>
 
 ## 📌 Project Overview
