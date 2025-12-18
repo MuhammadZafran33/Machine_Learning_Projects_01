@@ -1,7 +1,7 @@
 <div align="center">
-
 # 🩺 Diabetic Retinopathy Detection using Deep Learning
 </div>
+
 ## 📌 Project Overview
 This project focuses on detecting diabetic retinopathy from retinal fundus images using a Convolutional Neural Network (CNN). Diabetic retinopathy is a diabetes complication that affects the eyes, and early detection is crucial for preventing vision loss.
 
