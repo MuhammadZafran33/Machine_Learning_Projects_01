@@ -145,6 +145,26 @@ graph LR
 
 ```
 
+## 📈 Accuracy Curve
+
+```mermaid
+xychart-beta
+    title "Training vs Validation Accuracy"
+    x-axis "Epochs" [1, 2, 3]
+    y-axis "Accuracy" 0 --> 100
+    line "Train" [35.74, 36.73, 37.39]
+    line "Validation" [35.56, 36.88, 39.50]
+```
+## 📉 Loss Curve
+```mermaid
+xychart-beta
+    title "Training vs Validation Loss"
+    x-axis "Epochs" [1, 2, 3]
+    y-axis "Loss" 1.3 --> 1.45
+    line "Train" [1.4251, 1.4087, 1.3890]
+    line "Validation" [1.3958, 1.4198, 1.3548]
+```
+
 # 🎮 Execution Steps
 ```mermaid
 flowchart LR
@@ -163,6 +183,24 @@ flowchart LR
 ```
 
 # ⚠️ Challenges & Improvements
+
+## ❌ Issues
+***Low Accuracy: The model achieves only ~39.5% validation accuracy, indicating underfitting or insufficient training.***
+
+***Limited Epochs: Only 3 epochs were trained due to computational constraints.***
+
+***Class Imbalance: Despite being "balanced," further analysis of class distribution is needed.***
+
+## ✅ Suggested Improvements
+***Increase Epochs: Train for more epochs (20-50) with early stopping.***
+
+***Model Complexity: Add more convolutional layers or use transfer learning (ResNet, VGG16).***
+
+****Hyperparameter Tuning: Adjust learning rate, batch size, and dropout rates.***
+
+***Advanced Augmentation: Include more diverse transformations.***
+
+***Class Weighting: Apply class weights to handle any residual imbalance.***
 ## 🔴 Current Limitations
 ```mermaid
 graph TD
@@ -191,4 +229,54 @@ gantt
     section Phase 3
     Advanced Augmentation :2025-01-25, 7d
     Ensemble Methods :2025-01-25, 7d
+```
+# 👨‍💻 Author Information
+
+
+ ```
+Detail	Information
+👤 Name                	Muhammad Zafran
+🎓 Project	             Diabetic Retinopathy Detection
+🧠 Framework	           TensorFlow/Keras
+🏢 Environment	         Google Colab Pro
+📅 Last Updated	         Dec 2025
+```
+
+# 📜 License & Citation
+```mermaid
+graph LR
+    A[📚 Educational Use] --> B[🔄 Modify & Distribute]
+    A --> C[📝 Cite Source]
+    A --> D[🚫 Commercial Use]
+    
+    style A fill:#E3F2FD,stroke:#2196F3
+    style B fill:#E8F5E8,stroke:#4CAF50
+    style C fill:#FFF8E1,stroke:#FFC107
+    style D fill:#FFEBEE,stroke:#F44336
+```
+# 🎯 Future Enhancements
+```mermaid
+graph LR
+    A[Current: Basic CNN] --> B[Phase 1: Transfer Learning]
+    B --> C[Phase 2: Web Deployment]
+    C --> D[Phase 3: Real-time Diagnosis]
+    
+    D --> E[🎯 Vision: AI-powered Early Detection System]
+    
+    style A fill:#FFEBEE,stroke:#F44336
+    style B fill:#E8F5E8,stroke:#4CAF50
+    style C fill:#E3F2FD,stroke:#2196F3
+    style D fill:#FFF8E1,stroke:#FFC107
+    style E fill:#F3E5F5,stroke:#9C27B0
+```
+
+# 📊 Final Model Performance Summary
+```mermaid
+quadrantChart
+    title "Model Performance Assessment"
+    x-axis "Low Complexity" --> "High Complexity"
+    y-axis "Low Accuracy" --> "High Accuracy"
+    "Current Model": [0.3, 0.4]
+    "Target Model": [0.7, 0.8]
+    "State-of-the-Art": [0.9, 0.95]
 ```
