@@ -2,6 +2,20 @@
 # Welcome to my Machine Learning Projects Repository! 🚀
 This repository contains carefully selected ML projects designed to help you learn Machine Learning in depth. Each project focuses on practical implementation, real-world datasets, and essential ML techniques. Whether you are a beginner or looking to solidify your understanding, these projects will guide you through the journey of building strong ML skills, exploring algorithms, and gaining confidence in designing and deploying ML solutions.
 
+## 📋 Table of Contents
+
+- [Overview](#overview)
+- [Project Structure](#project-structure)
+- [ML Workflow](#ml-workflow)
+- [Technologies & Tools](#technologies--tools)
+- [Getting Started](#getting-started)
+- [Projects](#projects)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+  
+
 ## Projects cover areas like:
 ▶ Supervised & Unsupervised Learning.
 
@@ -37,18 +51,7 @@ graph TD
 
 Welcome to the Machine Learning Projects repository! This collection showcases various machine learning implementations, experiments, and practical applications across different domains.
 
-## 📋 Table of Contents
 
-- [Overview](#overview)
-- [Project Structure](#project-structure)
-- [ML Workflow](#ml-workflow)
-- [Technologies & Tools](#technologies--tools)
-- [Getting Started](#getting-started)
-- [Projects](#projects)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## 🎯 Overview
 
@@ -96,6 +99,7 @@ graph LR
     style K fill:#c8e6c9
     style L fill:#ffccbc
     style M fill:#ffccbc
+```
 
 
 graph TB
@@ -128,6 +132,8 @@ graph TB
     style DataTools fill:#f3e5f5
     style Viz fill:#fff3e0
     style NLP fill:#e8f5e9
+
+```
 
 git clone https://github.com/MuhammadZafran33/Machine_Learning_Projects_01.git
 cd Machine_Learning_Projects_01
