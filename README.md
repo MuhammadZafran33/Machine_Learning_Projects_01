@@ -99,8 +99,9 @@ graph LR
     style K fill:#c8e6c9
     style L fill:#ffccbc
     style M fill:#ffccbc
+```
 
-
+```mermaid
 graph TB
     subgraph Core["Core ML Libraries"]
         A[scikit-learn] --> A1["Classification<br/>Regression<br/>Clustering"]
