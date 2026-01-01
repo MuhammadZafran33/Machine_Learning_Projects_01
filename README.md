@@ -99,7 +99,6 @@ graph LR
     style K fill:#c8e6c9
     style L fill:#ffccbc
     style M fill:#ffccbc
-```
 
 
 graph TB
@@ -138,3 +137,12 @@ graph TB
 git clone https://github.com/MuhammadZafran33/Machine_Learning_Projects_01.git
 cd Machine_Learning_Projects_01
 
+# Using venv
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+# Or using conda
+conda create -n ml_projects python=3.10
+conda activate ml_projects
+
+pip install -r requirements.txt
