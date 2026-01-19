@@ -23,17 +23,17 @@
 
 ```
 ╔═══════════════════════════════════════════════════════╗
-║        🎓 MACHINE LEARNING MASTERY ACHIEVED! 🎓       ║
+║        🎓 MACHINE LEARNING MASTERY ACHIEVED! 🎓      ║
 ╠═══════════════════════════════════════════════════════╣
 ║                                                       ║
-║  ✅ Course Status:           COMPLETED                ║
-║  📅 Completion Date:          January 2026            ║
-║  ⏱️  Total Time Invested:      3 hours 33 minutes     ║
-║  📊 Overall Progress:          100% (13/13 modules)   ║
-║  🏆 Concepts Mastered:         18/18                  ║
-║  🎯 Projects Completed:        5 Full Projects        ║
-║  💻 Code Files Created:        15+ Implementations    ║
-║  📈 Skills Gained:             10+ New Competencies   ║
+║  ✅ Course Status:           COMPLETED               ║
+║  📅 Completion Date:          January 2026           ║
+║  ⏱️  Total Time Invested:      3 hours 33 minutes    ║
+║  📊 Overall Progress:          100% (13/13 modules)  ║
+║  🏆 Concepts Mastered:         18/18                 ║
+║  🎯 Projects Completed:        5 Full Projects       ║
+║  💻 Code Files Created:        15+ Implementations   ║
+║  📈 Skills Gained:             10+ New Competencies  ║
 ║                                                       ║
 ║  STATUS: 🟢 SUCCESSFULLY COMPLETED & MASTERED        ║
 ║                                                       ║
@@ -647,17 +647,17 @@ KNOWLEDGE ARCHITECTURE
 
 ```
 ╔═══════════════════════════════════════════════════════╗
-║           COURSE COMPLETION STATISTICS               ║
+║           COURSE COMPLETION STATISTICS                ║
 ╠═══════════════════════════════════════════════════════╣
 ║                                                       ║
 ║  ⏱️  Total Time Investment:    3 hours 33 minutes    ║
 ║  📚 Modules Completed:         13 out of 13 (100%)   ║
-║  🎯 Core Concepts Mastered:    18 out of 18         ║
+║  🎯 Core Concepts Mastered:    18 out of 18          ║
 ║  💻 Algorithms Implemented:    7 major algorithms    ║
 ║  📊 Projects Completed:        7 full projects       ║
 ║  📈 Average Accuracy Achieved: 87.3%                 ║
 ║  🧠 Neural Network Models:     2 TensorFlow models   ║
-║  📉 Dimensionality Reduction:  73% (11 → 3)         ║
+║  📉 Dimensionality Reduction:  73% (11 → 3)          ║
 ║  ✅ Code Files Created:        20+ implementations   ║
 ║  📚 Lines of Code Written:     2000+ lines           ║
 ║  🔍 Edge Cases Handled:        All major cases       ║
@@ -836,11 +836,11 @@ TOP 10 LEARNING INSIGHTS
 ```
 ╔════════════════════════════════════════════════════════╗
 ║                                                        ║
-║         🏆 CERTIFICATE OF COMPLETION 🏆              ║
+║         🏆 CERTIFICATE OF COMPLETION 🏆               ║
 ║                                                        ║
-║  This certifies that Muhammad Zafran has successfully ║
-║  completed the Machine Learning for Everybody course  ║
-║  offered by freeCodeCamp.org, instructed by           ║
+║  This certifies that Muhammad Zafran has successfully  ║
+║  completed the Machine Learning for Everybody course   ║
+║  offered by freeCodeCamp.org, instructed by            ║
 ║  Kylie Ying                                            ║
 ║                                                        ║
 ║  ✅ All 13 modules completed                          ║
@@ -848,17 +848,17 @@ TOP 10 LEARNING INSIGHTS
 ║  ✅ 87.3% average accuracy across projects            ║
 ║  ✅ Deep understanding of ML concepts demonstrated    ║
 ║                                                        ║
-║  Date Completed: January 2026                         ║
-║  Total Duration: 3 hours 33 minutes                   ║
-║  Proficiency Level: Expert ⭐⭐⭐⭐⭐                   ║
+║  Date Completed: January 2026                          ║
+║  Total Duration: 3 hours 33 minutes                    ║
+║  Proficiency Level: Expert ⭐⭐⭐⭐⭐               ║
 ║                                                        ║
-║  This demonstrates competency in:                     ║
-║  • Machine Learning fundamentals                      ║
-║  • Data preprocessing and EDA                         ║
-║  • Classification algorithms (KNN, NB, LR, SVM)       ║
-║  • Deep Learning with TensorFlow                      ║
-║  • Regression modeling                                ║
-║  • Unsupervised learning (K-Means, PCA)              ║
+║  This demonstrates competency in:                      ║
+║  • Machine Learning fundamentals                       ║
+║  • Data preprocessing and EDA                          ║
+║  • Classification algorithms (KNN, NB, LR, SVM)        ║
+║  • Deep Learning with TensorFlow                       ║
+║  • Regression modeling                                 ║
+║  • Unsupervised learning (K-Means, PCA)                ║
 ║                                                        ║
 ╚════════════════════════════════════════════════════════╝
 ```
@@ -952,13 +952,13 @@ CONFIDENCE RATING:
 ╔════════════════════════════════════════════════════════╗
 ║                                                        ║
 ║  🎓 I have successfully mastered the fundamentals of  ║
-║     Machine Learning and Deep Learning with           ║
-║     TensorFlow. This course has provided me with the  ║
-║     knowledge and practical skills needed to build    ║
-║     intelligent systems and solve real-world ML       ║
+║     Machine Learning and Deep Learning with            ║
+║     TensorFlow. This course has provided me with the   ║
+║     knowledge and practical skills needed to build     ║
+║     intelligent systems and solve real-world ML        ║
 ║     problems.                                          ║
 ║                                                        ║
-║  📊 100% Completion | 7 Projects | 87.3% Avg Accuracy║
+║  📊 100% Completion | 7 Projects | 87.3% Avg Accuracy ║
 ║  🎯 Ready for Advanced ML & AI Applications           ║
 ║                                                        ║
 ╚════════════════════════════════════════════════════════╝
