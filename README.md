@@ -32,15 +32,15 @@ Welcome to my comprehensive **Machine Learning Projects Repository**! This is a 
 ║          MACHINE LEARNING PROJECTS OVERVIEW           ║
 ╠═══════════════════════════════════════════════════════╣
 ║                                                       ║
-║  Total Projects:        40+ implementations          ║
-║  Project Categories:    6 major areas                ║
-║  Code Files:            100+ Python files            ║
-║  Lines of Code:         5000+ lines                  ║
-║  Jupyter Notebooks:     20+ interactive notebooks    ║
-║  Datasets Used:         15+ real-world datasets      ║
-║  ML Models:             50+ different models         ║
+║  Total Projects:        40+ implementations           ║
+║  Project Categories:    6 major areas                 ║
+║  Code Files:            100+ Python files             ║
+║  Lines of Code:         5000+ lines                   ║
+║  Jupyter Notebooks:     20+ interactive notebooks     ║
+║  Datasets Used:         15+ real-world datasets       ║
+║  ML Models:             50+ different models          ║
 ║  Active Development:    🟢 YES                       ║
-║  Last Updated:          January 2026                 ║
+║  Last Updated:          January 2026                  ║
 ║                                                       ║
 ╚═══════════════════════════════════════════════════════╝
 ```
