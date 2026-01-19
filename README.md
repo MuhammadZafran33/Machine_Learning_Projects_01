@@ -938,10 +938,10 @@ git push origin feature/YourProject
 ║ 📧 Email:      zafrankhaan33@gmail.com               ║
 ║ 💬 WhatsApp:   +92 324-9854807                       ║
 ║ 🔗 GitHub:     @MuhammadZafran33                     ║
-║ 📍 Location:   Peshawar, KPK, Pakistan 🇵🇰          ║
+║ 📍 Location:   Peshawar, KPK, Pakistan 🇵🇰            ║
 ║ 🎓 Institute:  IMSciences, Peshawar                  ║
 ║                                                       ║
-║ Hours: Available for discussions & collaborations    ║
+║ Hours: Available for discussions & collaborations     ║
 ║                                                       ║
 ╚═══════════════════════════════════════════════════════╝
 ```
