@@ -935,11 +935,11 @@ git push origin feature/YourProject
 ║              SUPPORT & CONTACT INFO                   ║
 ╠═══════════════════════════════════════════════════════╣
 ║                                                       ║
-║ 📧 Email:      zafrankhaan33@gmail.com               ║
-║ 💬 WhatsApp:   +92 324-9854807                       ║
-║ 🔗 GitHub:     @MuhammadZafran33                     ║
-║ 📍 Location:   Peshawar, KPK, Pakistan 🇵🇰            ║
-║ 🎓 Institute:  IMSciences, Peshawar                  ║
+║ 📧 Email:      zafrankhaan33@gmail.com                ║
+║ 💬 WhatsApp:   +92 324-9854807                        ║
+║ 🔗 GitHub:     @MuhammadZafran33                      ║
+║ 📍 Location:   Peshawar, KPK, Pakistan 🇵🇰             ║
+║ 🎓 Institute:  IMSciences, Peshawar                   ║
 ║                                                       ║
 ║ Hours: Available for discussions & collaborations     ║
 ║                                                       ║
@@ -1001,24 +1001,24 @@ REPRODUCIBILITY:
 ║              MIT LICENSE INFORMATION                  ║
 ╠═══════════════════════════════════════════════════════╣
 ║                                                       ║
-║ License Type:   MIT (Massachusetts Institute of      ║
-║                 Technology)                          ║
+║ License Type:   MIT (Massachusetts Institute of       ║
+║                 Technology)                           ║
 ║                                                       ║
 ║ ✅ You ARE allowed to:                               ║
 ║   • Use commercially                                  ║
 ║   • Modify code                                       ║
-║   • Distribute copies                                ║
+║   • Distribute copies                                 ║
 ║   • Use privately                                     ║
 ║   • Use for research                                  ║
 ║                                                       ║
 ║ ⚠️  You MUST:                                         ║
-║   • Include license notice                           ║
-║   • State changes made                               ║
-║   • Include original copyright                       ║
+║   • Include license notice                            ║
+║   • State changes made                                ║
+║   • Include original copyright                        ║
 ║                                                       ║
 ║ ❌ You CANNOT:                                        ║
-║   • Remove license notice                            ║
-║   • Hold author liable                               ║
+║   • Remove license notice                             ║
+║   • Hold author liable                                ║
 ║   • Use trademark                                     ║
 ║                                                       ║
 ╚═══════════════════════════════════════════════════════╝
@@ -1067,10 +1067,10 @@ Q4 2026:
 
 ```
 ╔═══════════════════════════════════════════════════════╗
-║            FINAL REPOSITORY STATISTICS               ║
+║            FINAL REPOSITORY STATISTICS                ║
 ╠═══════════════════════════════════════════════════════╣
 ║                                                       ║
-║  Total Projects:            40+ ✅                    ║
+║  Total Projects:            40+ ✅                   ║
 ║  Total Python Files:        100+                      ║
 ║  Total Code Lines:          5000+                     ║
 ║  Jupyter Notebooks:         20+                       ║
@@ -1080,7 +1080,7 @@ Q4 2026:
 ║  Average Accuracy:          92.3%                     ║
 ║  Repository Size:           250+ MB                   ║
 ║  Last Update:               January 2026              ║
-║  Status:                    🟢 Active Development     ║
+║  Status:                    🟢 Active Development    ║
 ║  Contributors:              Growing                   ║
 ║                                                       ║
 ╚═══════════════════════════════════════════════════════╝
