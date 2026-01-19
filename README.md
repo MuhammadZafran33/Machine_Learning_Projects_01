@@ -1097,20 +1097,20 @@ Q4 2026:
 ```
 ╔═══════════════════════════════════════════════════════╗
 ║                                                       ║
-║  This repository represents a complete journey      ║
-║  through machine learning - from basic algorithms   ║
-║  to advanced deep learning applications.            ║
+║  This repository represents a complete journey        ║
+║  through machine learning - from basic algorithms     ║
+║  to advanced deep learning applications.              ║
 ║                                                       ║
-║  40+ projects covering:                             ║
-║  • Supervised Learning (35 projects)                ║
-║  • Unsupervised Learning (25 projects)              ║
-║  • Deep Learning (20 projects)                      ║
-║  • NLP (12 projects)                                ║
-║  • Computer Vision (8 projects)                     ║
-║  • Time Series (4 projects)                         ║
+║  40+ projects covering:                               ║
+║  • Supervised Learning (35 projects)                  ║
+║  • Unsupervised Learning (25 projects)                ║
+║  • Deep Learning (20 projects)                        ║
+║  • NLP (12 projects)                                  ║
+║  • Computer Vision (8 projects)                       ║
+║  • Time Series (4 projects)                           ║
 ║                                                       ║
-║  Whether you're a beginner or advanced learner,    ║
-║  you'll find valuable projects and implementations.║
+║  Whether you're a beginner or advanced learner,       ║
+║  you'll find valuable projects and implementations.   ║
 ║                                                       ║
 ╚═══════════════════════════════════════════════════════╝
 ```
