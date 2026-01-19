@@ -144,20 +144,20 @@ Machine_Learning_Projects_01/
 PROJECT DISTRIBUTION BY MACHINE LEARNING TYPE
 ═══════════════════════════════════════════════════════════
 
-Supervised Learning      ████████████░░░░░░░░  35/100  (35%)
-├─ Linear Regression     ███░░░░░░░░░░░░░░░░░   6%
-├─ Logistic Regression   ███░░░░░░░░░░░░░░░░░   5%
-├─ Decision Trees        ████░░░░░░░░░░░░░░░░  7%
-├─ Random Forest         ████░░░░░░░░░░░░░░░░  8%
-├─ SVM                   ███░░░░░░░░░░░░░░░░░   5%
-└─ Gradient Boosting     ███░░░░░░░░░░░░░░░░░   4%
+Supervised Learning      ███████████████░░░  75/100  (35%)
+├─ Linear Regression     ██████░░░░░░░░░░░░░░   16%
+├─ Logistic Regression   ██████░░░░░░░░░░░░░░   15%
+├─ Decision Trees        ███████░░░░░░░░░░░░░   17%
+├─ Random Forest         ██████░░░░░░░░░░░░░░   10%
+├─ SVM                   ██████░░░░░░░░░░░░░░   10%
+└─ Gradient Boosting     ██████░░░░░░░░░░░░░░   14%
 
-Unsupervised Learning    █████████░░░░░░░░░░░  25/100  (25%)
-├─ K-Means Clustering    █████░░░░░░░░░░░░░░░   8%
-├─ Hierarchical          ████░░░░░░░░░░░░░░░░  5%
-├─ DBSCAN                ███░░░░░░░░░░░░░░░░░   4%
-├─ PCA & Dim Reduction   █████░░░░░░░░░░░░░░░   5%
-└─ Anomaly Detection     ███░░░░░░░░░░░░░░░░░   3%
+Unsupervised Learning    █████████████░░░░░░░  65/100  (25%)
+├─ K-Means Clustering    ████████░░░░░░░░░░░░   18%
+├─ Hierarchical          ███████░░░░░░░░░░░░░  15%
+├─ DBSCAN                ██████░░░░░░░░░░░░░░   14%
+├─ PCA & Dim Reduction   █████░░░░░░░░░░░░░░░   15%
+└─ Anomaly Detection     ████░░░░░░░░░░░░░░░░   13%
 
 Deep Learning            ███████░░░░░░░░░░░░░  20/100  (20%)
 ├─ Neural Networks       ████░░░░░░░░░░░░░░░░  5%
